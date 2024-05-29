@@ -1,0 +1,1 @@
+It is a real estate agent project written using springboot and web service. It includes methods that filter the total price, average square meter, according to the number of rooms and living rooms, using house, summer house and villa house types.
